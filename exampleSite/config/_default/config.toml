@@ -1,4 +1,4 @@
-baseURL = "https://idawgairspace.com"
+baseURL = "https://idawgairspace.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
