@@ -92,5 +92,6 @@ funfacts:
       make us stand out from the crowd.
 title: Immunogenomics Data Analysis Working Group
 description: Immunogenomics Data Analysis Working Group
+bg_image: "/images/blog/blog-post-1.jpg"
 
 ---
