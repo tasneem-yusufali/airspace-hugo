@@ -22,7 +22,6 @@ about:
   description: |-
     The IDAWG is an international collaboration of histocompatibility and immunogenetics investigators who share the goal of making immunogenomic data (HLA, KIR, etc.) more useful across studies and between different groups.
     <br />
-    <br />
     Toward these ends, the working group will develop methods, standards, tools and recommendations intended to;
   content: |
     <ol>
