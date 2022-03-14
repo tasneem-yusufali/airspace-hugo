@@ -75,7 +75,7 @@ service:
       standard method for reducing these ambiguities, and different research groups
       may apply different methods to the same set of ambiguities, resulting in different
       alleles and genotypes being chosen for the same typing result.
-  - icon: fas fa-headphones-alt
+  - icon: ''
     name: High Polymorphism
     content: The high level of polymorphism associated with these genetic systems
       presents particular bioinformatic, statistical and computational challenges
