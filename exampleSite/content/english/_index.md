@@ -3,9 +3,10 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: immunogenomics data analysis working group <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Immunogenomics Data Analysis Working Group
+  content: An international collaboration of histocompatibility and immunogenetics
+    investigators who share the goal of making immunogenomic data (HLA, KIR, etc.)
+    more useful across studies and between different groups.
   button:
     enable: true
     label: Discover Our Project
