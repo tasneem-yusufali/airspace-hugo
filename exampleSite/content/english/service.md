@@ -85,18 +85,6 @@ service:
       sparse cells). Guidelines based on theoretical and empirical considerations
       are required for each method in order to insure consistency in the application
       and interpretation of these analyses.
-  - icon: fas fa-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-globe-asia
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-feather
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 cta:
   enable: true
 
