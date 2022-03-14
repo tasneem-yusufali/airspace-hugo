@@ -108,7 +108,9 @@ cta:
   content: |-
     Given these challenges to consistent data-analysis, the Immunogenomics Data-Analysis Working Group proposes to develop data equivalency standards intended to foster consistency in the use of extant and future analytical methods, and to develop novel statistical and computational methodologies for the analysis of highly polymorphic loci.
     <br />
+    <br />
     In addition, we will determine the impact of various standards and methods for data mangement on downstream data-analyses, comparing them to extant immunogenetic data analysis systems, and producing recommendations for consistency in the analysis of highly polymorphic datasets.
+    <br />
     <br />
     Finally, we will promote widespread accessibility and application of these novel data equivalency and analytical tools by making them available to the community using web-based and multi-platform approaches.
   button:
