@@ -47,7 +47,7 @@ service:
       set of equivalent alleles) may be identified in a sample using one method, while
       a slightly different allele (or set of equivalent alleles) may be identified
       in the same sample, using a different method.
-  - icon: fas fa-layer-group
+  - icon: ''
     name: Changes in Nomenclature
     content: The continual evolution of the nomenclature conventions over time has
       resulted in a progression of allele and locus identifiers that are not always
