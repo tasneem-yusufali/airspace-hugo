@@ -4,11 +4,9 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Immunogenomics Data Analysis Working Group
-  content: An international collaboration of histocompatibility and immunogenetics
-    investigators who share the goal of making immunogenomic data (HLA, KIR, etc.)
-    more useful across studies and between different groups.
+  content: ''
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project/
 about:
