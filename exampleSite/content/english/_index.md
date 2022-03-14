@@ -104,12 +104,15 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Solutions for Immunogenomic Data Management and Analysis
+  content: |-
+    Given these challenges to consistent data-analysis, the Immunogenomics Data-Analysis Working Group proposes to develop data equivalency standards intended to foster consistency in the use of extant and future analytical methods, and to develop novel statistical and computational methodologies for the analysis of highly polymorphic loci.
+    <br />
+    In addition, we will determine the impact of various standards and methods for data mangement on downstream data-analyses, comparing them to extant immunogenetic data analysis systems, and producing recommendations for consistency in the analysis of highly polymorphic datasets.
+    <br />
+    Finally, we will promote widespread accessibility and application of these novel data equivalency and analytical tools by making them available to the community using web-based and multi-platform approaches.
   button:
-    enable: true
+    enable: false
     label: Tell Us Your Story
     link: contact/
 funfacts:
