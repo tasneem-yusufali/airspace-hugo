@@ -40,7 +40,7 @@ service:
   title: Challenges To Consistency In Immunogenomic Data Management And Analysis
   description: ''
   service_item:
-  - icon: fas fa-bullseye
+  - icon: ''
     name: Variation in Typing Methodology
     content: The large variety of typing methods in use results in datasets being
       generated with varying levels of resolution, so that a particular allele (or
