@@ -55,14 +55,14 @@ service:
       the alleles in a dataset is "frozen" at the time when that dataset is generated
       and published, which can make comparisons with datasets generated under successive
       nomenclature conventions difficult.
-  - icon: fas fa-image
+  - icon: ''
     name: Variation in Data Management Standards
     content: The lack of clear standards with regard to the manner in which immunogenetic
       data are recorded and stored often makes it difficult to integrate datasets
       for meta-analyses, or to even share data between research groups. This becomes
       especially problematic with very large datasets, as the process of reformatting
       data is often accomplished by hand.
-  - icon: fas fa-bug
+  - icon: ''
     name: Variation in Ambiguity Reduction Methods
     content: When polymorphisms that distinguish alleles are not assessed (e.g., because
       they are in an exon that is not interrogated by the typing method employed),
