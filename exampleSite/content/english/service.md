@@ -63,9 +63,6 @@ service:
       especially problematic with very large datasets, as the process of reformatting
       data is often accomplished by hand.
   - icon: ''
-    name: ''
-    content: ''
-  - icon: ''
     name: Variation in Ambiguity Reduction Methods
     content: When polymorphisms that distinguish alleles are not assessed (e.g., because
       they are in an exon that is not interrogated by the typing method employed),
