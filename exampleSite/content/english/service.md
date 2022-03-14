@@ -63,9 +63,18 @@ service:
       especially problematic with very large datasets, as the process of reformatting
       data is often accomplished by hand.
   - icon: fas fa-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Variation in Ambiguity Reduction Methods
+    content: When polymorphisms that distinguish alleles are not assessed (e.g., because
+      they are in an exon that is not interrogated by the typing method employed),
+      the result is allelic ambiguity, where exact identity of one or both of the
+      alleles present in a given sample at a given locus cannot be known. When it
+      is not possible to establish phase between key polymorphisms common to many
+      alleles, the result is genotypic ambiguity, where multiple genotypes are possible
+      for a given sample. The choice of one allele over another, or of one genotype
+      over another, is the process of ambiguity reduction. Currently, there is no
+      standard method for reducing these ambiguities, and different research groups
+      may apply different methods to the same set of ambiguities, resulting in different
+      alleles and genotypes being chosen for the same typing result.
   - icon: fas fa-headphones-alt
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
