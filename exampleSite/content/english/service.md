@@ -76,9 +76,15 @@ service:
       may apply different methods to the same set of ambiguities, resulting in different
       alleles and genotypes being chosen for the same typing result.
   - icon: fas fa-headphones-alt
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: High Polymorphism
+    content: The high level of polymorphism associated with these genetic systems
+      presents particular bioinformatic, statistical and computational challenges
+      that have yet to be addressed in a standardized manner. For example, haplotype
+      estimation, case-control association studies and test of fit to HWE are all
+      subject to biases introduced by large numbers of low-frequency alleles (aka,
+      sparse cells). Guidelines based on theoretical and empirical considerations
+      are required for each method in order to insure consistency in the application
+      and interpretation of these analyses.
   - icon: fas fa-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
