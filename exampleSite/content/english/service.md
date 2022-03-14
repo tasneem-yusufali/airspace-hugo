@@ -56,9 +56,12 @@ service:
       and published, which can make comparisons with datasets generated under successive
       nomenclature conventions difficult.
   - icon: fas fa-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Variation in Data Management Standards
+    content: The lack of clear standards with regard to the manner in which immunogenetic
+      data are recorded and stored often makes it difficult to integrate datasets
+      for meta-analyses, or to even share data between research groups. This becomes
+      especially problematic with very large datasets, as the process of reformatting
+      data is often accomplished by hand.
   - icon: fas fa-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
