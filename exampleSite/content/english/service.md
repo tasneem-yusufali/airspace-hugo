@@ -38,11 +38,7 @@ featured_service:
 service:
   enable: true
   title: Challenges To Consistency In Immunogenomic Data Management And Analysis
-  description: "VARIATION IN TYPING METHODOLOGY\n<br> \nThe large variety of typing
-    methods in use results in datasets being generated with varying levels of resolution,
-    so that a particular allele (or set of equivalent alleles) may be identified in
-    a sample using one method, while a slightly different allele (or set of equivalent
-    alleles) may be identified in the same sample, using a different method."
+  description: ''
   service_item:
   - icon: ''
     name: Variation in Typing Methodology
@@ -66,6 +62,9 @@ service:
       for meta-analyses, or to even share data between research groups. This becomes
       especially problematic with very large datasets, as the process of reformatting
       data is often accomplished by hand.
+  - icon: ''
+    name: ''
+    content: ''
   - icon: ''
     name: Variation in Ambiguity Reduction Methods
     content: When polymorphisms that distinguish alleles are not assessed (e.g., because
