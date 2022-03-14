@@ -48,9 +48,13 @@ service:
       a slightly different allele (or set of equivalent alleles) may be identified
       in the same sample, using a different method.
   - icon: fas fa-layer-group
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Changes in Nomenclature
+    content: The continual evolution of the nomenclature conventions over time has
+      resulted in a progression of allele and locus identifiers that are not always
+      easily inter-related. It is usually the case that the nomenclature used to identify
+      the alleles in a dataset is "frozen" at the time when that dataset is generated
+      and published, which can make comparisons with datasets generated under successive
+      nomenclature conventions difficult.
   - icon: fas fa-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
