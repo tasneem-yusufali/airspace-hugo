@@ -19,15 +19,20 @@ banner:
 about:
   enable: true
   title: About Us
-  description: The immunogenomics data analysis working group (IDAWG) is an international
-    collaboration of histocompatibility and immunogenetics investigators who share
-    the goal of facilitating the sharing of immunogenomic data (HLA, KIR, etc.) and
-    fostering the consistent analysis and interpretation of those data by the immunogenomics
-    community and the larger genomics communities.
-  content: The working group was formed in advance of the 16th International HLA and
-    Immunogenetics Workshop (IHIW) and Conference with the intent to present its recommendations
-    on topics of data-management and data-analysis at the 16th IHIW and Conference
-    in 2012. IDAWG projects continue as part of the 17th IHIW to be held in 2017.
+  description: |-
+    The IDAWG is an international collaboration of histocompatibility and immunogenetics investigators who share the goal of making immunogenomic data (HLA, KIR, etc.) more useful across studies and between different groups.
+    <br />
+    <br />
+    Toward these ends, the working group will develop methods, standards, tools and recommendations intended to;
+  content: |
+    <ul>
+      <li>Record, store and transmit immunogenomic data without obscuring the limitations of the typing method used, allow easy identification of allelic equivalency under successive nomenclatures, make data both human-readable (e.g., flat-text file) and machine-readable (e.g., XML file), conform to extant nomenclature rules, all without the use of proprietary platforms.</li>
+      <li>Document ambiguity reduction methods used, permit reproducible ambiguity reduction, and permit equivalency under different methods of ambiguity reduction.</li>
+      <li>Foster portability between extant analysis tools and methods to permit maximum access to investigators (e.g., web-based tools).</li>
+      <li>Encourage consistent data formats in future analytical methods, promoting widespread accessibility and application.</li>
+      <li>Foster methodological consistency in the analysis of low frequency alleles and heterogeneous data, the estimation of haplotypes, Hardy-Weinberg testing of highly polymorphic data, the application of measures of and adjustment for linkage disequilibrium, tests for selection and measures of population differentiation, the calculation of odds ratios, relative risks, etc., corrections for multiple testing, mitigation of false positive readings.</li>
+      <li>Develop novel methods of data analysis for highly polymorphic loci in disease association and population studies (e.g., peptide and nucleotide-level analyses, multidimensional scaling analyses, and neural network analyses).</li>
+     </ul>
   image: images/wrapper-img.png
 portfolio:
   enable: true
