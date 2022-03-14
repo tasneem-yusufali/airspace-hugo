@@ -28,9 +28,13 @@ about:
       <li>Record, store and transmit immunogenomic data without obscuring the limitations of the typing method used, allow easy identification of allelic equivalency under successive nomenclatures, make data both human-readable (e.g., flat-text file) and machine-readable (e.g., XML file), conform to extant nomenclature rules, all without the use of proprietary platforms.</li>
     <br />
       <li>Document ambiguity reduction methods used, permit reproducible ambiguity reduction, and permit equivalency under different methods of ambiguity reduction.</li>
+    <br />
       <li>Foster portability between extant analysis tools and methods to permit maximum access to investigators (e.g., web-based tools).</li>
+    <br />
       <li>Encourage consistent data formats in future analytical methods, promoting widespread accessibility and application.</li>
+    <br />
       <li>Foster methodological consistency in the analysis of low frequency alleles and heterogeneous data, the estimation of haplotypes, Hardy-Weinberg testing of highly polymorphic data, the application of measures of and adjustment for linkage disequilibrium, tests for selection and measures of population differentiation, the calculation of odds ratios, relative risks, etc., corrections for multiple testing, mitigation of false positive readings.</li>
+    <br />
       <li>Develop novel methods of data analysis for highly polymorphic loci in disease association and population studies (e.g., peptide and nucleotide-level analyses, multidimensional scaling analyses, and neural network analyses). </li>
      </ol>
   image: images/wrapper-img.png
