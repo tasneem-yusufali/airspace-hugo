@@ -4,14 +4,14 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Immunogenomics Data Analysis Working Group
-  content: "The immunogenomics data analysis working group (IDAWG) is an international
-    collaboration of histocompatibility and immunogenetics investigators who share
-    the goal of facilitating the sharing of immunogenomic data (HLA, KIR, etc.) and
-    fostering the consistent analysis and interpretation of those data by the immunogenomics
-    community and the larger genomics communities.\nThe working group was formed in
-    advance of the 16th International HLA and Immunogenetics Workshop (IHIW) and Conference
-    with the intent to present its recommendations on topics of data-management and
-    data-analysis at the 16th IHIW and Conference in 2012. "
+  content: "IDAWG is an international collaboration of histocompatibility and immunogenetics
+    investigators who share the goal of facilitating the sharing of immunogenomic
+    data (HLA, KIR, etc.) and fostering the consistent analysis and interpretation
+    of those data by the immunogenomics community and the larger genomics communities.\n<br
+    />\nThe working group was formed in advance of the 16th International HLA and
+    Immunogenetics Workshop (IHIW) and Conference with the intent to present its recommendations
+    on topics of data-management and data-analysis at the 16th IHIW and Conference
+    in 2012. "
   button:
     enable: false
     label: Discover Our Project
