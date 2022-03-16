@@ -91,7 +91,7 @@ portfolio:
     in the use of extant and future analytical methods, and to develop novel statistical
     and computational methodologies for the analysis of highly polymorphic loci.\n<br>
     \nIn addition, we will determine the impact of various standards and methods for
-    data mangement on downstream data-analyses, comparing them to extant immunogenetic
+    data management on downstream data-analyses, comparing them to extant immunogenetic
     data analysis systems, and producing recommendations for consistency in the analysis
     of highly polymorphic datasets.\n<br> \nFinally, we will promote widespread accessibility
     and application of these novel data equivalency and analytical tools by making
