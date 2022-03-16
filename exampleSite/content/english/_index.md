@@ -4,7 +4,7 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Immunogenomics Data Analysis Working Group
-  content: "<div align=\"left\">\n<font size=\"+2\">\nIDAWG is an international collaboration
+  content: "<div align=\"left\">\n<font size=\"+1\">\nIDAWG is an international collaboration
     of histocompatibility and immunogenetics investigators who share the goal of facilitating
     the sharing of immunogenomic data (HLA, KIR, etc.) and fostering the consistent
     analysis and interpretation of those data by the immunogenomics community and
