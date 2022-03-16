@@ -108,11 +108,11 @@ service:
   service_item:
   - icon: ''
     name: Variation in Typing Methodology
-    content: The large variety of typing methods in use results in datasets being
-      generated with varying levels of resolution, so that a particular allele (or
-      set of equivalent alleles) may be identified in a sample using one method, while
-      a slightly different allele (or set of equivalent alleles) may be identified
-      in the same sample, using a different method.
+    content: <div align="left">The large variety of typing methods in use results
+      in datasets being generated with varying levels of resolution, so that a particular
+      allele (or set of equivalent alleles) may be identified in a sample using one
+      method, while a slightly different allele (or set of equivalent alleles) may
+      be identified in the same sample, using a different method.</div>
   - icon: ''
     name: Changes in Nomenclature
     content: The continual evolution of the nomenclature conventions over time has
