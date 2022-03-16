@@ -152,10 +152,11 @@ service:
       are required for each method in order to insure consistency in the application
       and interpretation of these analyses.
 cta:
-  enable: false
+  enable: true
   bg_image: images/call-to-action-bg.jpg
   title: Solutions for Immunogenomic Data Management and Analysis
   content: |-
+    <div align="left">
     Given these challenges to consistent data-analysis, the Immunogenomics Data-Analysis Working Group proposes to develop data equivalency standards intended to foster consistency in the use of extant and future analytical methods, and to develop novel statistical and computational methodologies for the analysis of highly polymorphic loci.
     <br />
     <br />
@@ -163,6 +164,7 @@ cta:
     <br />
     <br />
     Finally, we will promote widespread accessibility and application of these novel data equivalency and analytical tools by making them available to the community using web-based and multi-platform approaches.
+    </div>
   button:
     enable: false
     label: Tell Us Your Story
