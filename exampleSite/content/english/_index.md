@@ -103,7 +103,7 @@ portfolio:
     label: View Works
     link: project/
 service:
-  enable: true
+  enable: false
   title: Challenges To Consistency In Immunogenomic Data Management And Analysis
   service_item:
   - icon: ''
@@ -152,7 +152,7 @@ service:
       are required for each method in order to insure consistency in the application
       and interpretation of these analyses.
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: Solutions for Immunogenomic Data Management and Analysis
   content: |-
