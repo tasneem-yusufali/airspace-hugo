@@ -39,7 +39,7 @@ weight = 2
 [[main]]
 name = "IHIWS"
 parent = "More"
-url = "ihiws/"
+url = "faq/"
 weight = 3
 [[main]]
 name = "Contact"
