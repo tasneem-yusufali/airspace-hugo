@@ -28,7 +28,7 @@ url = "blog/"
 weight = 4
 [[main]]
 name = "IHIWS"
-url = ""
+url = "/IHIWS"
 weight = "4"
 [[main]]
 name = "Contact"
