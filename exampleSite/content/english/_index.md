@@ -43,12 +43,11 @@ portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
   title: PROJECT RATIONALE
-  content: "Immunogenetics is an international field with a history that spans more
-    than fifty years. Immunogenetic genotyping, data-generation and data-analysis
-    methods have proliferated in this time, in many cases in inconsistent ways. We
-    have identified five areas where (often unavoidable) inconsistency can be introduced
-    into genotype data; these inconsistencies in turn contribute to variation in the
-    analysis of immunogenomic data, and the interpretation of such analyses.\n\n"
+  content: |+
+    Immunogenetics is an international field with a history that spans more than fifty years. Immunogenetic genotyping, data-generation and data-analysis methods have proliferated in this time, in many cases in inconsistent ways. We have identified five areas where (often unavoidable) inconsistency can be introduced into genotype data; these inconsistencies in turn contribute to variation in the analysis of immunogenomic data, and the interpretation of such analyses.
+
+    Challenges To Consistency In Immunogenomic Data Management And Analysis
+
   button:
     enable: false
     label: View Works
@@ -161,4 +160,4 @@ description: Immunogenomics Data Analysis Working Group
 bg_image: "/images/blog/blog-post-1.jpg"
 
 ---
-djfhgdjkhgdjhfgdfgd
+# djfhgdjkhgdjhfgdfgd
