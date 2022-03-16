@@ -50,7 +50,7 @@ portfolio:
     into genotype data; these inconsistencies in turn contribute to variation in the
     analysis of immunogenomic data, and the interpretation of such analyses.\n<br>
     \n<br> \n<p style=\"color:black;\"><b>CHALLENGES TO CONSISTENCY IN IMMUNOGENETIC
-    DATA MANAGEMENT AND ANALYSIS</b></p>\n<br> \n<br> \n<i>Variation in Typing Methodology</i>\n<br>
+    DATA MANAGEMENT AND ANALYSIS</b></p>\n<br> \n<i>Variation in Typing Methodology</i>\n<br>
     \nThe large variety of typing methods in use results in datasets being generated
     with varying levels of resolution, so that a particular allele (or set of equivalent
     alleles) may be identified in a sample using one method, while a slightly different
@@ -86,7 +86,7 @@ portfolio:
     on theoretical and empirical considerations are required for each method in order
     to insure consistency in the application and interpretation of these analyses.\n<br>
     \n<br> \n<p style=\"color:black;\"><b>SOLUTIONS FOR IMMUNOGENETIC DATA MANAGEMENT
-    AND ANALYSIS</b></p>\n<br> \n<br> \nGiven these challenges to consistent data-analysis,
+    AND ANALYSIS</b></p>\n<br> \nGiven these challenges to consistent data-analysis,
     the Immunogenomics Data-Analysis Working Group proposes to develop data equivalency
     standards intended to foster consistency in the use of extant and future analytical
     methods, and to develop novel statistical and computational methodologies for
