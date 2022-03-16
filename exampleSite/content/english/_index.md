@@ -103,7 +103,7 @@ portfolio:
     label: View Works
     link: project/
 service:
-  enable: false
+  enable: true
   title: Challenges To Consistency In Immunogenomic Data Management And Analysis
   service_item:
   - icon: ''
