@@ -53,9 +53,9 @@ parent = "More"
 url = "pricing/"
 weight = 2
 [[main]]
-name = "FAQ"
+name = "IHIWS"
 parent = "More"
-url = "faq/"
+url = "ihiws/"
 weight = 3
 [[main]]
 name = "Contact"
