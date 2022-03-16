@@ -30,5 +30,3 @@ fields:
   - type: text
     name: info
     label: info
-pages:
-- exampleSite/content/english/project/helo.md
