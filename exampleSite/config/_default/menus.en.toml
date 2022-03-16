@@ -4,16 +4,8 @@ url = "about/"
 weight = 2
 [[footer]]
 name = "Publications"
-url = "publications/"
+url = "project/"
 weight = 3
-[[footer]]
-name = "Service"
-url = "service/"
-weight = 4
-[[footer]]
-name = "Pricing"
-url = "pricing/"
-weight = 5
 [[footer]]
 name = "Contact"
 url = "contact/"
