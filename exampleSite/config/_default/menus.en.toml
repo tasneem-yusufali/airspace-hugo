@@ -52,4 +52,4 @@ weight = 3
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = "3"
+weight = "5"
