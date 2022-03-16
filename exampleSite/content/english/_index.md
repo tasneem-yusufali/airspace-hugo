@@ -49,22 +49,22 @@ portfolio:
     have identified five areas where (often unavoidable) inconsistency can be introduced
     into genotype data; these inconsistencies in turn contribute to variation in the
     analysis of immunogenomic data, and the interpretation of such analyses.\n<br>
-    \n<br> \n<br> \n<b>Challenges To Consistency In Immunogenomic Data Management
-    And Analysis</b>\n<br> \n<br> \n<br> \n<i>Variation in Typing Methodology</i>\nThe
-    large variety of typing methods in use results in datasets being generated with
-    varying levels of resolution, so that a particular allele (or set of equivalent
-    alleles) may be identified in a sample using one method, while a slightly different
-    allele (or set of equivalent alleles) may be identified in the same sample, using
-    a different method.\n<br> \n<br> \n<i>Changes in Nomenclature</i>\nThe continual
-    evolution of the nomenclature conventions over time has resulted in a progression
-    of allele and locus identifiers that are not always easily inter-related. It is
-    usually the case that the nomenclature used to identify the alleles in a dataset
-    is \"frozen\" at the time when that dataset is generated and published, which
-    can make comparisons with datasets generated under successive nomenclature conventions
-    difficult.\n<br> \n<br> \n<i>Variation in Data Management Standards</i>\nThe lack
-    of clear standards with regard to the manner in which immunogenetic data are recorded
-    and stored often makes it difficult to integrate datasets for meta-analyses, or
-    to even share data between research groups. This becomes especially problematic
+    \n<br> \n<br> \n<p style=\"color:black;\"><b>CHALLENGES To Consistency In Immunogenomic
+    Data Management And Analysis</b></p>\n<br> \n<br> \n<br> \n<i>Variation in Typing
+    Methodology</i>\nThe large variety of typing methods in use results in datasets
+    being generated with varying levels of resolution, so that a particular allele
+    (or set of equivalent alleles) may be identified in a sample using one method,
+    while a slightly different allele (or set of equivalent alleles) may be identified
+    in the same sample, using a different method.\n<br> \n<br> \n<i>Changes in Nomenclature</i>\nThe
+    continual evolution of the nomenclature conventions over time has resulted in
+    a progression of allele and locus identifiers that are not always easily inter-related.
+    It is usually the case that the nomenclature used to identify the alleles in a
+    dataset is \"frozen\" at the time when that dataset is generated and published,
+    which can make comparisons with datasets generated under successive nomenclature
+    conventions difficult.\n<br> \n<br> \n<i>Variation in Data Management Standards</i>\nThe
+    lack of clear standards with regard to the manner in which immunogenetic data
+    are recorded and stored often makes it difficult to integrate datasets for meta-analyses,
+    or to even share data between research groups. This becomes especially problematic
     with very large datasets, as the process of reformatting data is often accomplished
     by hand.\n<br> \n<br> \n<i>Variation in Ambiguity Reduction Methods</i>\nWhen
     polymorphisms that distinguish alleles are not assessed (e.g., because they are
@@ -90,12 +90,12 @@ portfolio:
     Group proposes to develop data equivalency standards intended to foster consistency
     in the use of extant and future analytical methods, and to develop novel statistical
     and computational methodologies for the analysis of highly polymorphic loci.\n<br>
-    \nIn addition, we will determine the impact of various standards and methods for
-    data management on downstream data-analyses, comparing them to extant immunogenetic
+    \n<br> \nIn addition, we will determine the impact of various standards and methods
+    for data management on downstream data-analyses, comparing them to extant immunogenetic
     data analysis systems, and producing recommendations for consistency in the analysis
-    of highly polymorphic datasets.\n<br> \nFinally, we will promote widespread accessibility
-    and application of these novel data equivalency and analytical tools by making
-    them available to the community using web-based and multi-platform approaches.\n\n"
+    of highly polymorphic datasets.\n<br> \n<br> \nFinally, we will promote widespread
+    accessibility and application of these novel data equivalency and analytical tools
+    by making them available to the community using web-based and multi-platform approaches.\n\n"
   button:
     enable: false
     label: View Works
